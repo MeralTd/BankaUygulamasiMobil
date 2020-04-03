@@ -1,6 +1,7 @@
 # BankaUygulamasiMobil
 React Native ve MSSQL kullanılarak gerçekleştirilmişitir.
-##BankaUygulamasiMobil
+</br>
+#Ekran Görüntüleri
 ![anasayfa](https://user-images.githubusercontent.com/26633192/78393704-020b0200-75f3-11ea-822e-352afd768b60.PNG)
 ![Menu](https://user-images.githubusercontent.com/26633192/78393734-13540e80-75f3-11ea-817a-79241dd7dfe4.PNG)
 ![hesap](https://user-images.githubusercontent.com/26633192/78393772-25ce4800-75f3-11ea-952c-0380a1f00afa.PNG)
