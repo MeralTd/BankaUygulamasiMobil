@@ -1,5 +1,5 @@
 # BankaUygulamasiMobil
-React Native ve MSSQL kullanılarak gerçekleştirilmişitir.
+React Native ve MSSQL kullanılarak gerçekleştirilmiştir.
 </br>
 # Ekran Görüntüleri
 ![anasayfa](https://user-images.githubusercontent.com/26633192/78393704-020b0200-75f3-11ea-822e-352afd768b60.PNG)
